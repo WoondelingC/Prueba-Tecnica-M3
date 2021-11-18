@@ -1,4 +1,6 @@
 Aplicación para M3 utilizando HTML5, CSS3 y JS
 
 Para desplegar el proyecto se puede hacer por el siguiente link de despliegue de github
-""
+"https://woondelingc.github.io/Prueba-Tecnica-M3/"
+
+y para despliegue con VERCEL ""
